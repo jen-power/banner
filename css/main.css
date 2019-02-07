@@ -31,7 +31,8 @@ position: relative;
 .banner-content {
 position: fixed;
 max-width: 35em;
-bottom: 10em;
+bottom: 9em;
+left: 6em;
 text-align: center;
 color: #fff;
 }
